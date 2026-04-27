@@ -3,7 +3,7 @@ import { Inter } from 'next/font/google'
 import Script from 'next/script'
 import './globals.css'
 
-const ADSENSE_ID = process.env.NEXT_PUBLIC_ADSENSE_ID || ''
+const ADSENSE_ID = process.env.NEXT_PUBLIC_ADSENSE_ID || 'ca-pub-7176880833963568'
 
 const inter = Inter({ subsets: ['latin'] })
 
