@@ -6,12 +6,12 @@ import { ChevronDown } from 'lucide-react'
 
 const faqs = [
   {
-    q: 'Is SaveClip completely free?',
+    q: 'Is Digital Downloaders completely free?',
     a: "Yes — 100% free, forever. No subscription, no sign-up, no credit card. Just paste a URL and download.",
   },
   {
     q: 'Which platforms are supported?',
-    a: 'SaveClip supports YouTube, Instagram (Reels, posts, stories), TikTok, Twitter/X, and Vimeo.',
+    a: 'Digital Downloaders supports YouTube, Instagram (Reels, posts, stories), TikTok, Twitter/X, and Vimeo.',
   },
   {
     q: 'What video qualities can I download?',
@@ -19,7 +19,7 @@ const faqs = [
   },
   {
     q: 'Do I need to install any software?',
-    a: 'No — SaveClip runs entirely in your browser. Visit the website, paste a URL, done.',
+    a: 'No — Digital Downloaders runs entirely in your browser. Visit the website, paste a URL, done.',
   },
   {
     q: 'Are there any download limits?',

@@ -78,10 +78,10 @@ export default function Features() {
           transition={{ duration: 0.5 }}
           className="text-center mb-16"
         >
-          <p className="text-violet-400 text-xs font-semibold uppercase tracking-[0.2em] mb-3">Why SaveClip</p>
+          <p className="text-violet-400 text-xs font-semibold uppercase tracking-[0.2em] mb-3">Why Digital Downloaders</p>
           <h2 className="text-4xl md:text-5xl font-black tracking-tight text-white">Built different</h2>
           <p className="text-gray-600 mt-4 text-lg max-w-xl mx-auto">
-            Not your average video downloader. SaveClip is fast, clean, and built to last.
+            Not your average video downloader. Digital Downloaders is fast, clean, and built to last.
           </p>
         </motion.div>
 

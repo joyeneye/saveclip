@@ -13,13 +13,12 @@ export default function Footer() {
             </svg>
           </div>
           <span className="font-bold text-white text-[15px]">
-            Save<span className="text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-blue-400">Clip</span>
-            <span className="text-gray-700 font-normal">.io</span>
+            Digital<span className="text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-blue-400">Downloaders</span>
           </span>
         </div>
 
         <p className="text-gray-700 text-xs text-center">
-          © {new Date().getFullYear()} SaveClip.io · The fastest free video downloader
+          © {new Date().getFullYear()} Digital Downloaders · The fastest free video downloader
         </p>
 
         <div className="flex items-center gap-6 text-xs text-gray-700">

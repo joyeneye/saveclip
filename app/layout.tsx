@@ -8,23 +8,23 @@ const ADSENSE_ID = process.env.NEXT_PUBLIC_ADSENSE_ID || 'ca-pub-717688083396356
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'SaveClip.io — Free Video Downloader for YouTube, Instagram, TikTok & More',
+  title: 'Digital Downloaders — Free Video Downloader for YouTube, Instagram, TikTok & More',
   description:
     'Download HD videos from YouTube, Instagram, TikTok, Twitter, and Vimeo for free. No signup, no watermarks, no limits. The fastest online video downloader.',
   keywords:
-    'video downloader, youtube downloader, instagram video downloader, tiktok downloader, twitter video downloader, vimeo downloader, save video online free, download video HD',
-  metadataBase: new URL('https://saveclip.io'),
+    'video downloader, digital downloaders, youtube downloader, instagram video downloader, tiktok downloader, twitter video downloader, vimeo downloader, save video online free, download video HD',
+  metadataBase: new URL('https://digitaldownloaders.com'),
   openGraph: {
-    title: 'SaveClip.io — Download Any Video, Instantly',
+    title: 'Digital Downloaders — Download Any Video, Instantly',
     description:
       'Free HD video downloader for YouTube, Instagram, TikTok, Twitter, and Vimeo. No signup required.',
     type: 'website',
-    url: 'https://saveclip.io',
+    url: 'https://digitaldownloaders.com',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'SaveClip.io — Free Video Downloader',
-    description: 'Save videos from any platform in HD. Free, fast, no signup.',
+    title: 'Digital Downloaders — Free Video Downloader',
+    description: 'Download videos from any platform in HD. Free, fast, no signup.',
   },
   robots: {
     index: true,

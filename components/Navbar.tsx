@@ -12,8 +12,7 @@ export default function Navbar() {
           </svg>
         </div>
         <span className="font-bold text-[17px] tracking-tight text-white">
-          Save<span className="text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-blue-400">Clip</span>
-          <span className="text-gray-600 font-normal">.io</span>
+          Digital<span className="text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-blue-400">Downloaders</span>
         </span>
       </Link>
 
